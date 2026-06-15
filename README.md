@@ -143,21 +143,7 @@ I'm a Cyber Security graduate passionate about offensive security, penetration t
 
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41)
-
-</div>
-
----
 
 ## 💡 Philosophy
 
