@@ -21,8 +21,8 @@
 ```python
 class HamzaZahid:
     role        = "Cyber Security Graduate | Penetration Tester | Security Researcher"
-    focus       = ["Offensive Security", "Red Team Operations", "Security Research"]
-    experience  = ["Web App Security", "Active Directory", "Network Security", "Tool Development"]
+    focus       = "Offensive Security", "Red Team Operations", "Security Research"
+    experience  = "Web App Security", "Active Directory", "Network Security", "Tool Development"
     learning    = "ICS/SCADA Security & Malware Analysis"
     ctf_player  = True
     philosophy  = "Understand the attack. Strengthen the defense."
