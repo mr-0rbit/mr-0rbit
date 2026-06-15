@@ -156,8 +156,6 @@ I'm a Cyber Security graduate passionate about offensive security, penetration t
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
-
 **⚡ Always learning. Always hacking. Ethically.**
 
 </div>
